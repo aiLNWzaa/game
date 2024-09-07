@@ -1,0 +1,32 @@
+﻿{
+	"version": 1725737795,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/bgmenu-sheet0.png",
+		"images/title-sheet0.png",
+		"images/btnplay-sheet0.png",
+		"images/bggame1-sheet0.png",
+		"images/image-sheet0.png",
+		"images/image-sheet1.png",
+		"images/image-sheet2.png",
+		"images/image-sheet3.png",
+		"images/image-sheet4.png",
+		"images/bgover-sheet0.png",
+		"images/btnhome-sheet0.png",
+		"images/timeandscore-sheet0.png",
+		"images/particles.png",
+		"images/wrong-sheet0.png",
+		"images/sprite-sheet0.png",
+		"media/snapsave.io-santa-anna-_128-kbps_.m4a",
+		"media/snapsave.io-santa-anna-_128-kbps_.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
